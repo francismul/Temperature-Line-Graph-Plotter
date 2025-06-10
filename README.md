@@ -28,5 +28,7 @@ This Python program plots a line graph representing temperature readings over a 
 - Python 3.x
 - matplotlib
 
+![Temperature Line Graph](temperature_line_graph_plotter.svg)
+
 ---
 
